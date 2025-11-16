@@ -2,9 +2,9 @@
 
 Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<h2 align="center">My name is Muhammad Syafiq Paradisam 👋👋</h2>
+<h2 align="center">My name is Syafiq 👋👋</h2>
 
-<h3 align="center"><em>I am DevSecOps Engineer And Tech nerd
+<h3 align="center"><em>I am Just Tech nerd
 </em></h3>
 
 <img align="left" style="margin-left: 50px" src="https://static.zerochan.net/Alina.Clover.1024.4345060.webp" width="315"/>
@@ -90,8 +90,7 @@ fn main() {
         current_focus: vec![
             "Fullstack developer".to_string(),
             "Blue team security".to_string(),
-            "AI engineer".to_string(),
-            "Blockchain developer".to_string()
+            "Data Scientist".to_string()
         ],
         fun_fact: "I learn tech quicker".to_string(),
     };
