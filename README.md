@@ -99,9 +99,7 @@ fn main() {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.66%20million%20baris%20kode-blue)
 
@@ -109,7 +107,7 @@ fn main() {
 
 > 📦 ? Digunakan di GitHub Storage 
  > 
-> 🏆 1 Kontribusi pada 2026
+> 🏆 2 Kontribusi pada 2026
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -117,47 +115,6 @@ fn main() {
  > 
 > 🔑 0 Repositori pribadi 
  > 
-**Aku orangnya diurnal 🐤** 
-
-```text
-🌞 Pagi                   531 commits         ████████░░░░░░░░░░░░░░░░░   33.15 % 
-🌆 Siang                  523 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌃 Petang                 515 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
-🌙 Malam                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-```
-📅 **Paling produktif saat Jumat** 
-
-```text
-Senin                    156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Selasa                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Rabu                     276 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Kamis                    189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Jumat                    327 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Sabtu                    249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Minggu                   239 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-PHP                      9 hrs 36 mins       ██████████████████████░░░   88.84 % 
-Blade Template           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-tmux                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-
-🔥 Editor: 
-VS Code                  10 hrs 45 mins      █████████████████████████   99.55 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-💻 Sistem Operasi: 
-Linux                    10 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
 **Kebanyakan menulis dalam bahasa JavaScript** 
 
 ```text
@@ -175,5 +132,5 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqtidakjagongoding/syafiqtidakjagongoding/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 02:02:31 UTC
+ Last Updated on 03/01/2026 01:55:50 UTC
 <!--END_SECTION:waka-->
