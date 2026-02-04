@@ -99,9 +99,9 @@ fn main() {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.71%20million%20baris%20kode-blue?style=flat)
 
@@ -144,19 +144,18 @@ Minggu                   249 commits         ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Java                     10 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.08 % 
-PHP                      6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Blade Template           2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-conf                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Java                     10 hrs 2 mins       ████████████░░░░░░░░░░░░░   48.90 % 
+PHP                      4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Blade Template           2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Solidity                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editor: 
-VS Code                  19 hrs 53 mins      ██████████████████████░░░   87.27 % 
-Neovim                   2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Vim                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  18 hrs 12 mins      ██████████████████████░░░   88.61 % 
+Neovim                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 
 💻 Sistem Operasi: 
-Linux                    22 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa JavaScript** 
@@ -176,5 +175,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqtidakjagongoding/syafiqtidakjagongoding/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 02:34:01 UTC
+ Last Updated on 04/02/2026 02:28:25 UTC
 <!--END_SECTION:waka-->
