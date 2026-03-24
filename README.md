@@ -144,17 +144,13 @@ Minggu                   254 commits         ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Vue.js                   2 hrs 58 mins       █████████████████░░░░░░░░   67.89 % 
-TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-Neovim                   4 hrs 23 mins       █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Linux                    4 hrs 23 mins       █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -174,5 +170,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqtidakjagongoding/syafiqtidakjagongoding/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 02:40:11 UTC
+ Last Updated on 24/03/2026 02:31:52 UTC
 <!--END_SECTION:waka-->
