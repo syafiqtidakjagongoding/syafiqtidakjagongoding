@@ -98,76 +98,22 @@ fn main() {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
+```txt
+From: 29 March 2026 - To: 04 April 2026
 
-![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.73%20million%20baris%20kode-blue?style=flat)
+Total Time: 6 hrs 5 mins
 
-**🐱 Dataku di GitHub** 
-
-> 📦 ? Digunakan di GitHub Storage 
- > 
-> 🏆 97 Kontribusi pada 2026
- > 
-> 💼 Sedang bisa dipekerjakan
- > 
-> 📜 22 Repositori publik 
- > 
-> 🔑 0 Repositori pribadi 
- > 
-**Aku orangnya diurnal 🐤** 
-
-```text
-🌞 Pagi                   550 commits         ████████░░░░░░░░░░░░░░░░░   33.13 % 
-🌆 Siang                  555 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌃 Petang                 522 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
-🌙 Malam                  33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-```
-📅 **Paling produktif saat Jumat** 
-
-```text
-Senin                    153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Selasa                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Rabu                     292 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Kamis                    187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Jumat                    342 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Sabtu                    260 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Minggu                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+YAML                       2 hrs 34 mins         >>>>>>>>>>>--------------   42.21 %
+Docker                     1 hrs 27 mins         >>>>>>-------------------   23.97 %
+PHP                        0 hrs 34 mins         >>-----------------------   09.19 %
+Bash                       0 hrs 19 mins         >------------------------   05.10 %
+Unknown                    0 hrs 18 mins         >------------------------   04.84 %
+Lua                        0 hrs 13 mins         >------------------------   03.59 %
+INI                        0 hrs 11 mins         >------------------------   03.07 %
+Hyprlang                   0 hrs 8 mins          >------------------------   02.26 %
+Json                       0 hrs 8 mins          >------------------------   02.22 %
+Vue                        0 hrs 5 mins          -------------------------   01.39 %
 ```
 
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
-
-🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
-
-💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
-```
-
-**Kebanyakan menulis dalam bahasa PHP** 
-
-```text
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
-
-**Lini masa**
-
-![Lines of Code chart](https://raw.githubusercontent.com/syafiqtidakjagongoding/syafiqtidakjagongoding/main/assets/bar_graph.png)
-
-
- Last Updated on 28/03/2026 02:35:31 UTC
 <!--END_SECTION:waka-->
